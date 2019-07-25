@@ -12,9 +12,9 @@ Hence, final decision on optimal restaurant location is able to made by stakehol
 
 
 
-- Summary can be found in https://www.linkedin.com/pulse/restaurants-data-analysis-kuala-lumpur-malaysia-jen-yee-hui/
+- A Summary Blogpost can be found in [my LinkedIn Post](https://www.linkedin.com/pulse/restaurants-data-analysis-kuala-lumpur-malaysia-jen-yee-hui/)
 
-- Full Report (PDF) can be found in https://github.com/janehui0820/Restaurants-Data-Analysis-Project/blob/master/Jane%20Capstone%20Project%20Full%20Report.pdf
+- Full Report (PDF) can be found in [here](https://github.com/janehui0820/Restaurants-Data-Analysis-Project/blob/master/Jane%20Capstone%20Project%20Full%20Report.pdf)
 
-- Report in Jupyter Notebook format can be found in https://github.com/janehui0820/Restaurants-Data-Analysis-Project/blob/master/Jane_Capstone_Project.ipynb
+- Full Report (Jupyter Notebook) can be found in [here](https://github.com/janehui0820/Restaurants-Data-Analysis-Project/blob/master/Jane_Capstone_Project.ipynb)
 
